@@ -1,0 +1,16 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\script\start_script\player.cs">
+    <Files>
+      <File FileName="Assets\script\start_script\player.cs" Line="82" Column="4" />
+      <File FileName="Assets\StreamingAssets\config.xml" Line="6" Column="7" />
+      <File FileName="Assets\script\start_script\player_move.cs" Line="1" Column="1" />
+      <File FileName="Assets\script\start_script\Ngui.cs" Line="1" Column="1" />
+      <File FileName="Assets\script\start_script\player.cs" Line="82" Column="4" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
